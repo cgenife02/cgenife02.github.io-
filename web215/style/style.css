@@ -19,6 +19,7 @@ body {
     text-align: center;
     color:rgb(202, 224, 217);
     background-image: url(../images/forests.webp);
+    background-repeat: no-repeat;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
@@ -94,7 +95,7 @@ li a:hover, .dropdown:hover .mydrop {
 .intro{
     text-align: left;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: 25px;
+    font-size: 20px;
     
  }
 
@@ -114,5 +115,8 @@ li a:hover, .dropdown:hover .mydrop {
     font-size: 15px;
     outline: 2px solid rgb(29, 22, 9);
     
+  }
+  .border{
+     border: 2px solid rgba(1, 46, 40, 0.518);
   }
 
