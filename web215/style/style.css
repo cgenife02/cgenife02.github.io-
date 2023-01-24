@@ -11,7 +11,7 @@ body {
     /* bottom = footer height */
     
     color:rgb(202, 224, 217);
-    background-image: url(/web215/images/forest.webp);
+    background-image: url(../images/forests.webp);
 }
 a {
     color:rgb(202, 224, 217);
