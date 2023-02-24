@@ -14,7 +14,6 @@ h2 {
 p{
     font-style: italic;
     color:rgb(202, 224, 217);
-    
     text-align: center;
     font-size: 80px;
     font-weight: bolder;
@@ -23,21 +22,36 @@ p{
     margin-top: 20px;
 }
 .frontP{
-    margin-top: 150px;
+    margin-top: 100px;
     text-shadow: 2px 2px rgb(202, 224, 217);
     color:rgb(94, 143, 134);
+    text-align: center;
+    padding-right: 100px;
+    padding-left: 100px;
+
 }
 
 body {
-    width: 1480px;
-    margin: 0 0 100px;
+    display: inline-block;
+    
+    /*margin: 0 0 100px;
     /* bottom = footer height */
     text-align: center;
     color:rgb(202, 224, 217);
     background-image: url(../images/forests.webp);
     background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 100px;
+    margin-right: 100px; 
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
+/*body {
+    display: inline-block;
+    background-image: url("redsea2.jpg");
+    background-size: cover;
+    margin-left: 100px;
+    margin-right: 100px; 
+  }*/
 
 
 a {
