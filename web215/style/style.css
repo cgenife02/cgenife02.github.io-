@@ -33,9 +33,6 @@ p{
 
 body {
     display: inline-block;
-    
-    /*margin: 0 0 100px;
-    /* bottom = footer height */
     text-align: center;
     color:rgb(202, 224, 217);
     background-image: url(../images/forests.webp);
@@ -43,6 +40,7 @@ body {
     background-size: cover;
     margin-left: 100px;
     margin-right: 100px; 
+    margin-bottom: 100px;
     font-family:Georgia, 'Times New Roman', Times, serif;
 }
 /*body {
@@ -85,6 +83,7 @@ li a:hover, .dropdown:hover .mydrop {
 
   
   footer {
+    
     background: rgba(7, 48, 38, 0.168);
     position: absolute;
     text-align: center;
